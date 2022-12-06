@@ -1,2 +1,1 @@
-This repository containsthe Fundamental Java Language<br>
-programs for beginners to Java programming.
+This repository containsthe Fundamental Java Language programs for beginners to Java programming.
