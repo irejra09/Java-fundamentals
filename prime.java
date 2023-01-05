@@ -2,7 +2,7 @@
 import java.util.*;
 public class prime
 {
-	public static void main(String[] args) {
+	public static void main(String[] a) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a number:");
 		int n = sc.nextInt();
